@@ -38,6 +38,6 @@ Will be deployed on **Render/Heroku**.
 ---
 
 ### Connect with Me
-- **LinkedIn:** [Your Name](https://linkedin.com/in/your-profile)
-- **Email:** your.email@gmail.com
+- **LinkedIn:** linkedin.com/in/somin-jain-198a97308
+- **Email:** sominjain336@gmail.com
 
